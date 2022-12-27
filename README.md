@@ -18,7 +18,7 @@ A) Códigos do Módulo de Localização:
 
 1. MapsActivity.kt ------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/MapsActivity.kt
 2. AndroidManifest.xml --> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/AndroidManifest.xml
-3. google_maps_api.xml
-4. strings.xml
+3. google_maps_api.xml --> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/google_maps_api.xml
+4. strings.xml ----------> 
 
 B) 
