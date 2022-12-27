@@ -16,7 +16,7 @@ Direito do Meio Ambiente
 
 A) Códigos do Módulo de Localização: 
 
-1. [MapsActivity.kt] (https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/MapsActivity.kt).
+[MapsActivity.kt] (https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/MapsActivity.kt).
 2. AndroidManifest.xml
 3. google_maps_api.xml
 4. strings.xml
