@@ -36,4 +36,3 @@ D) Códigos da Tela Inicial (inacabada):
 2. kotlin ------------------->
 3. xml ---------------------->
 
-D) Códigos da Tela Inicial (não terminado):
