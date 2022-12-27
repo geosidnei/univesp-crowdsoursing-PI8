@@ -14,5 +14,10 @@ foram a construção parcial do aplicativo de crowdsourcing com suas relevância
 Palavras-chave: Controle Ativo; Crowdsourcing; Desigualdade Socioambiental;
 Direito do Meio Ambiente
 
-códigos principais:
+A) Códigos do Módulo de Localização: 
+
+1. MapsActivity.kt
+2. AndroidManifest.xml
+3. google_maps_api.xml
+4. strings.xml
 
