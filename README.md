@@ -21,4 +21,19 @@ A) Códigos do Módulo de Localização:
 3. google_maps_api.xml ------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/google_maps_api.xml
 4. strings.xml --------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/strings.xml
 
-B) 
+B) Códigos do módulo de imagem:
+1. MainActivity.kt --------->   
+2. AndroidManifes.xml ------>
+3. activity_main.xml ------->
+4. strings.xml ------------->
+
+C) Códigos do módulo de e-mail:
+1. Kotlin ------------------>
+2. Xml --------------------->
+
+D) Códigos da Tela Inicial (inacabada):
+1. xml ---------------------->
+2. kotlin ------------------->
+3. xml ---------------------->
+
+D) Códigos da Tela Inicial (não terminado):
