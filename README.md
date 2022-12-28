@@ -10,6 +10,11 @@ foram a construção parcial do aplicativo de crowdsourcing com suas relevância
 Palavras-chave: Controle Ativo; Crowdsourcing; Desigualdade Socioambiental;
 Direito do Meio Ambiente
 
+Se você quiser ler todo o relatório é só acessar o link abaixo:
+
+https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/PI8_relat_fin_rev22.pdf
+
+
 A) Códigos do Módulo de Localização: 
 
 1. MapsActivity.kt ----------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/MapsActivity.kt
