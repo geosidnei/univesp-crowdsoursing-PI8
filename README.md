@@ -22,10 +22,10 @@ A) Códigos do Módulo de Localização:
 4. strings.xml --------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/strings.xml
 
 B) Códigos do módulo de imagem:
-1. MainActivity.kt --------->   
-2. AndroidManifes.xml ------>
-3. activity_main.xml ------->
-4. strings.xml ------------->
+1. MainActivity.kt -----------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/MainActivity.kt  
+2. AndroidManifest.xml -------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/AndroidManifest.xml
+3. activity_main.xml ---------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/activity_main.xml
+4. strings.xml ---------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/strings.xml
 
 C) Códigos do módulo de e-mail:
 1. Kotlin ------------------>
