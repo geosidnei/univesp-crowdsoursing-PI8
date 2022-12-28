@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:layout_gravity="center"
+android:padding="20dp"
+tools:context="MainActivity">
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="10dp"
+android:background="@drawable/bg_round">
+<TextView
+android:layout_width="50dp"
+android:layout_height="wrap_content"
+android:text="@string/para"
+android:textColor="@color/black"
+android:textSize="20sp"
+android:layout_gravity="center"
+/>
+<EditText
+android:id="@+id/edit_text_to"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@android:color/transparent"
+android:inputType="textEmailAddress"
+/>
+</LinearLayout>
+<EditText
+android:id="@+id/edit_text_subject"
+android:layout_width="match_parent"android:layout_height="wrap_content"
+android:text="@string/assunto"
+android:padding="10dp"
+android:layout_marginTop="10dp"
+android:background="@drawable/bg_round"
+android:inputType="textEmailSubject"
+/>
+<EditText
+android:id="@+id/edit_text_message"
+android:layout_width="match_parent"
+android:layout_height="0dp"
+android:layout_marginTop="10dp"
+android:lines="10"
+android:layout_weight="1"
+android:background="@drawable/bg_round"
+android:gravity="start|top"
+android:hint="@string/escreva_seu_texto"
+android:padding="10dp"
+android:inputType="textWebEditText"/>
+<Button
+android:id="@+id/button_send"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:layout_marginTop="10dp"
+android:background="@drawable/bg_round"
+android:padding="10dp"
+android:text="@string/enviar"
+android:textColor="@color/black"
+android:textSize="25sp"
+app:backgroundTint="#2E2D2D" />
+</LinearLayout><resources>
+<string name="app_name">Módulo de E-mail</string>
+<string name="para">Para: </string>
+<string name="assunto">Assunto: </string>
+<string name="escreva_seu_texto">Escreva seu texto aqui </string>
+<string name="enviar">Enviar</string>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="rectangle">
+<solid android:color="@android:color/transparent"/>
+<corners android:radius="10dp"/>
+<stroke android:width="2dp" android:color="@android:color/background_dark"/>
+</shape>
