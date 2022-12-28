@@ -28,11 +28,11 @@ B) Códigos do módulo de imagem:
 4. strings.xml ---------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/strings.xml
 
 C) Códigos do módulo de e-mail:
-1. Kotlin ------------------>
-2. Xml --------------------->
+1. Kotlin ------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/e-mail.kt
+2. Xml ---------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/e-mail.xml
 
 D) Códigos da Tela Inicial (inacabada):
-1. xml ---------------------->
-2. kotlin ------------------->
-3. xml ---------------------->
+1. tela inicial.xml ---------------------->
+2. tela inicial.kotlin -------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/telainicial.kt
+3. tela provisória.xml ----------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/tela-prov.xml
 
