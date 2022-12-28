@@ -32,7 +32,7 @@ C) Códigos do módulo de e-mail:
 2. Xml ---------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/e-mail.xml
 
 D) Códigos da Tela Inicial (inacabada):
-1. tela inicial.xml ---------------------->
+1. tela inicial.xml ----------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/telainicial.xml
 2. tela inicial.kotlin -------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/telainicial.kt
 3. tela provisória.xml ----------------------> https://github.com/geosidnei/univesp-crowdsoursing-PI8/blob/main/tela-prov.xml
 
